@@ -20,9 +20,10 @@
 
 <br/>
 
-### :alien: Technical Architect, Microsoft Azure, DevOps, Microservices & .Net Full Stack Professional.
+## :alien: About Me
 
----
+- Cloud Technical Architect
+- Microsoft Azure, DevOps, Microservices & .Net Full Stack Professional.
 
 ## :hammer_and_wrench: Languages and Tools
 
@@ -61,8 +62,6 @@
 </div>
 
 <br />
-
----
 
 ## :fire: My Stats
 
