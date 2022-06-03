@@ -59,11 +59,7 @@
 [<img alt="Azure Data Studio" title="Azure Data Studio" width="39px" src="https://code.benco.io/icon-collection/azure-docs/azure-data-studio.svg" style="padding-right:10px;" />][azure-data-studio]
 [<img alt="Terminal" title="Terminal" width="39px" src="https://cdn4.iconfinder.com/data/icons/small-n-flat/24/terminal-1024.png" style="padding-right:10px;" />][terminal]
 
-<br />
-
 ## :fire: My Stats
-
-<br/>
 
 <div align = "center">
     <img src="https://github-readme-stats.vercel.app/api?username=nayanbunny&show_icons=true&theme=bear" width=400 />
