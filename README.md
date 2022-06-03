@@ -2,7 +2,7 @@
 
 ## Hi 👋
 
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  width="100%" />
+  <img src="./images/name-banner.gif"  width="100%" />
 
 </div>
 
@@ -18,14 +18,12 @@
 
 </div>
 
-<br/>
-
 ## :alien: About Me
 
 - Cloud Technical Architect
-- Microsoft Azure, DevOps, Microservices & .Net Full Stack Professional.
+- Microsoft Azure, DevOps, Microservices & .Net Full Stack Professional
 
-## :hammer_and_wrench: Languages and Tools
+## :hammer_and_wrench: Languages & Tools
 
 [<img alt="Microsoft Azure" title="Microsoft Azure" width="39px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" style="padding-right:10px;" />][microsoft-azure]
 [<img alt="Azure DevOps" title="Azure DevOps" width="39px" src="https://code.benco.io/icon-collection/azure-icons/Azure-DevOps.svg" style="padding-right:10px;" />][azure-devops]
