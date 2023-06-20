@@ -13,14 +13,13 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-teal?style=for-the-badge&logo=icon&logoColor=white)][me-portfolio]
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-white?style=for-the-badge&logo=stackoverflow&logoColor=e77922)][me-stack-overflow]
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-2b3033?logo=visualstudiocode&logoColor=3ca5ea&style=for-the-badge)][me-visualstudio-marketplace]
-
-<!-- [![Views](https://komarev.com/ghpvc/?username=nayanbunny&style=flat-square&color=blue)][me-github] -->
+[![Profile Views](https://komarev.com/ghpvc/?username=nayanbunny&label=Profile%20views&color=0e75b6&style=for-the-badge&logo=icon&logoColor=white)][me-github]
 
 </div>
 
 ## :alien: About Me
 
-- Cloud Technical Architect
+- Cloud Solution Architect
 - Microsoft Azure, DevOps, Microservices & .Net Full Stack Professional
 
 ## :hammer_and_wrench: Languages & Tools
@@ -55,6 +54,7 @@
 [<img alt="Jupyter Notebook" title="Jupyter Notebook" width="39px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" style="padding-right:10px;" />][jupyter]
 [<img alt="SSMS" title="SSMS" width="39px" src="https://www.saashub.com/images/app/service_logos/17/663f6d8bf050/large.png?1539751207" style="padding-right:10px;" />][ssms]
 [<img alt="Azure Data Studio" title="Azure Data Studio" width="39px" src="https://code.benco.io/icon-collection/azure-docs/azure-data-studio.svg" style="padding-right:10px;" />][azure-data-studio]
+[<img alt="Azure Data Studio" title="Azure Data Studio" width="39px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" style="padding-right:10px;" />][terraform]
 [<img alt="Terminal" title="Terminal" width="39px" src="https://cdn4.iconfinder.com/data/icons/small-n-flat/24/terminal-1024.png" style="padding-right:10px;" />][terminal]
 
 ## :fire: My Stats
@@ -98,6 +98,7 @@
 [jupyter]: https://docs.jupyter.org/
 [ssms]: https://docs.microsoft.com/sql/ssms/sql-server-management-studio-ssms
 [azure-data-studio]: https://docs.microsoft.com/sql/azure-data-studio/
+[terraform]: https://www.terraform.io/
 [terminal]: https://buildmedia.readthedocs.org/media/pdf/lym/latest/lym.pdf
 
 <!--
