@@ -24,8 +24,8 @@
 
 ## :hammer_and_wrench: Languages & Tools
 
-[<img alt="Gen AI" title="Generative AI" width="39px" src="./images/openai-dark.png" style="padding-right:10px;" />](https://openai.com/product#ai-dark-mode-only)
-[<img alt="Gen AI" title="Generative AI" width="39px" src="./images/openai-light.png" style="padding-right:10px;" />](https://openai.com/product#ai-light-mode-only)
+[<img alt="Gen AI" title="Generative AI" width="39px" src="./images/openai-dark.png" style="padding-right:10px;" />](https://openai.com#ai-dark-mode-only)
+[<img alt="Gen AI" title="Generative AI" width="39px" src="./images/openai-light.png" style="padding-right:10px;" />](https://openai.com#ai-light-mode-only)
 [<img alt="Microsoft Azure" title="Microsoft Azure" width="39px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" style="padding-right:10px;" />][microsoft-azure]
 [<img alt="Azure DevOps" title="Azure DevOps" width="39px" src="https://code.benco.io/icon-collection/azure-icons/Azure-DevOps.svg" style="padding-right:10px;" />][azure-devops]
 [<img alt="Microservices" title="Microservices" width="39px" src="https://img.icons8.com/external-soft-fill-juicy-fish/344/external-microservice-microservices-soft-fill-soft-fill-juicy-fish.png" style="padding-right:10px;" />][microservices]
